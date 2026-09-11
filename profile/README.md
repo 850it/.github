@@ -12,8 +12,8 @@ Client work stays private. Every public repository here has a README that says w
 
 ## Contact
 
-Website: https://850it.com
-Email: info@850it.com
-495 Grand Blvd Suite 206-263, Miramar Beach, FL 32550
+- Website: https://850it.com
+- Email: info@850it.com
+- 495 Grand Blvd Suite 206-263, Miramar Beach, FL 32550
 
 850 I.T. and Software Services is the DBA of 850 IT Services LLC.
