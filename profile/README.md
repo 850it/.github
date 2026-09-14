@@ -8,7 +8,7 @@ Managed IT and help desk, so your office has one number to call. Security on Mic
 
 ## Code here
 
-Client work stays private. Every public repository here has a README that says what the code does and how to run it, plus a license file. Open an issue on a public repository and we answer within a few business days.
+Client work stays in private repositories, so you won't see it listed here.
 
 ## Contact
 
